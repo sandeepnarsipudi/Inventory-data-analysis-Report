@@ -66,7 +66,7 @@ Report Design
 
 ---
 
-DAX Measures Used (Copy–Paste Ready)
+DAX Measures Used
 
 > The following **9 DAX measures** were created and used in this project.
 
