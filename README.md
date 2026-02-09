@@ -1,5 +1,5 @@
 
-📦 Inventory Data Analysis Dashboard (Power BI + SQL Server+ SQL Database)
+Inventory Data Analysis Dashboard (Power BI + SQL Server+ SQL Database)
 
 Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiNDQyMmFkMjgtNTcyZC00M2RjLTkyMmQtN2RiMDM5NTBjNTE3IiwidCI6IjIzODk2NDkwLTdlNzMtNGQ1Zi1hZjQ5LTBmMjUwMzQ5NWQ3NSJ9&pageName=87d6d553e672994f2250
 
